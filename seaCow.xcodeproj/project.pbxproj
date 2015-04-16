@@ -17,6 +17,7 @@
 		2148088B1AE015EF008EB6C0 /* ReadingListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2148088A1AE015EF008EB6C0 /* ReadingListViewController.swift */; };
 		2148088D1AE01792008EB6C0 /* ArticleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2148088C1AE01792008EB6C0 /* ArticleViewController.swift */; };
 		2148088F1AE017C1008EB6C0 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2148088E1AE017C1008EB6C0 /* SettingsViewController.swift */; };
+		549639E31AE02D5600BF5866 /* SwipeCardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549639E21AE02D5600BF5866 /* SwipeCardsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		2148088A1AE015EF008EB6C0 /* ReadingListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReadingListViewController.swift; sourceTree = "<group>"; };
 		2148088C1AE01792008EB6C0 /* ArticleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleViewController.swift; sourceTree = "<group>"; };
 		2148088E1AE017C1008EB6C0 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		549639E21AE02D5600BF5866 /* SwipeCardsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwipeCardsView.swift; path = ../SwipeCardsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		210031481ADD965F00E1DD6D /* seaCow */ = {
 			isa = PBXGroup;
 			children = (
+				549639E21AE02D5600BF5866 /* SwipeCardsView.swift */,
 				2100314B1ADD965F00E1DD6D /* AppDelegate.swift */,
 				2100314F1ADD966000E1DD6D /* Main.storyboard */,
 				210031521ADD966000E1DD6D /* Images.xcassets */,
@@ -228,6 +231,7 @@
 				2100316C1ADD968400E1DD6D /* CardViewController.swift in Sources */,
 				2148088D1AE01792008EB6C0 /* ArticleViewController.swift in Sources */,
 				2148088B1AE015EF008EB6C0 /* ReadingListViewController.swift in Sources */,
+				549639E31AE02D5600BF5866 /* SwipeCardsView.swift in Sources */,
 				2148088F1AE017C1008EB6C0 /* SettingsViewController.swift in Sources */,
 				2100314C1ADD965F00E1DD6D /* AppDelegate.swift in Sources */,
 			);
